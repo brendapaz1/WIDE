@@ -4,7 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println ("Odio MAC");
+        String a = "Suicidio colectivo";
+        System.out.println ("Odio MAC - " + a);
 	// write your code here
     }
 }
